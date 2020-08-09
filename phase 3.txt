@@ -1,0 +1,23 @@
+phase 3:
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title> </title>
+</head>
+<body>
+	<form>
+		<input type= "text" value="Enter your name" />
+		<br/>
+		<br/>
+		<input type= "text" value="Enter your Email" />
+		<br/>
+		<br/>
+		<input type="password"/>
+		<br/>
+		<br/>
+		<input type="submit" value="Submit">
+	
+	</form>
+</body>
+</html>
