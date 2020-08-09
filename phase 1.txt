@@ -1,0 +1,14 @@
+phase 1:
+
+<html>
+<head>
+<title> Crime Investitation </title>
+</head>
+<body>
+      <h1> <b> <i>Crime Investitation Project </i></b> </h1>
+	  <a href ="code_2.html" target="_blank"> Admin Login </a> </br>
+	  <br/>
+	  <a href ="officer.html" target="_blank"> Officer Login </a>
+</body>
+
+</html>
